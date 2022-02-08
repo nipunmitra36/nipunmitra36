@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunmitra36)](https://github.com/anuraghazra/github-readme-stats)
 
- <div width="100">![GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunmitra36&show_icons=true)</div>
+ [GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunmitra36&show_icons=true)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nipunmitra36)  
