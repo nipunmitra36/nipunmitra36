@@ -8,7 +8,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunmitra36)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunmitra36&show_icons=true)  
+ <div width="100">![GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunmitra36&show_icons=true)</div>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nipunmitra36)  
 
@@ -16,4 +17,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nipunmitra36)  
 
-![Profile views](https://gpvc.arturio.dev/nipunmitra36)  
+![Profile views](https://gpvc.arturio.dev/nipunmitra36)  <div width="100"></div>
