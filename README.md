@@ -1,40 +1,39 @@
-👋 Hi, I’m Nipun Mitra
-Web Developer
+# 👋 Nipun Mitra  
+**Web Developer | Frontend Technology**
 
-I’m a results-driven Web Developer with a strong emphasis on modern frontend technologies and scalable web solutions. I specialize in building responsive, high-performance user interfaces that align with business objectives and deliver measurable user impact.
+**Tags:** `Nipun Mitra` `Web Developer` `Frontend Technology`
 
-With hands-on experience across production-grade projects, I bridge the gap between design and engineering, ensuring clean architecture, maintainable codebases, and seamless user experiences.
+Frontend-focused Web Developer delivering responsive, scalable, and business-ready web solutions. Strong emphasis on UI quality, performance optimization, and clean implementation.
 
-🚀 Core Competencies
+---
 
-Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
+## 🧠 Skills
+- HTML5, CSS3, JavaScript  
+- React.js, Next.js  
+- Tailwind CSS, Bootstrap  
+- WordPress Custom Development  
+- SEO & Responsive Design  
+- Git & GitHub  
 
-Frameworks & Libraries: React.js, Next.js
+---
 
-CMS & Platforms: WordPress (Custom Themes & Optimization)
+## 🏢 Projects & Clients
+- CW Skills — https://www.cwskills.com/  
+- Bangladesh Medical University — https://bmu.ac.bd/  
+- Al Noor Customs — https://alnoorcustoms.com/  
+- Sony Rangs — https://www.sonyrangs.com/  
+- AB Mart Fashion — https://www.abmartfashion.com/  
+- BabyUp (Singapore) — https://www.babyup.sg/  
+- PixelWare — https://pixelwarebd.com/  
+- Techno Vision BD — https://www.technovisionbd.com/  
+- Hayk Construction Consultancy Services — https://www.hayk.co.uk/  
+- We Counsel BD — https://wecounselbd.com/  
+- Tekno Tunes — https://un.teknotunes.com/  
+- Cnext SA — https://cnextsa.com/  
+- The Kingsley — https://thekingsley.ng/  
 
-Backend Exposure: PHP, Laravel (integration-focused)
+---
 
-UI/UX: Responsive Design, Accessibility, Performance Optimization
-
-Tools & Workflow: Git, GitHub, REST APIs, Agile Collaboration
-
-🎯 Professional Focus
-
-Building business-ready frontend systems
-
-Translating UI/UX designs into scalable code
-
-Optimizing performance, SEO, and accessibility
-
-Continuous upskilling in modern web ecosystems
-
-📈 What I’m Working Toward
-
-Advanced frontend architecture (Next.js, component-driven design)
-
-Design systems & reusable UI libraries
-
-Full-stack readiness with API-first development
-
-Long-term impact through clean, sustainable code
+## 🔗 Connect
+- GitHub: https://github.com/nipunmitra36  
+- LinkedIn: https://www.linkedin.com/in/nipunmitra  
