@@ -1,23 +1,24 @@
 # 👋 Nipun Mitra  
-**Web Developer | Frontend Technology**
+**Web Developer**
 
-**Tags:** `Nipun Mitra` `Web Developer` `Frontend Technology`
+**Tags:** `Nipun Mitra` `Web Developer` 
 
-Frontend-focused Web Developer delivering responsive, scalable, and business-ready web solutions. Strong emphasis on UI quality, performance optimization, and clean implementation.
+Web Developer delivering responsive, scalable, and business-ready web solutions. Strong emphasis on UI quality, performance optimization, and clean implementation.
 
 ---
 
-## 🧠 Skills
+## Skills
 - HTML5, CSS3, JavaScript  
 - React.js, Next.js  
 - Tailwind CSS, Bootstrap  
-- WordPress Custom Development  
+- WordPress Custom Development
+- PHP, Laravel
 - SEO & Responsive Design  
 - Git & GitHub  
 
 ---
 
-## 🏢 Projects & Clients
+## Projects & Clients
 - CW Skills — https://www.cwskills.com/  
 - Bangladesh Medical University — https://bmu.ac.bd/  
 - Al Noor Customs — https://alnoorcustoms.com/  
