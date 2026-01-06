@@ -1,18 +1,40 @@
-### Hi there 👋, Nipun Mitra
+👋 Hi, I’m Nipun Mitra
+Web Developer
 
+I’m a results-driven Web Developer with a strong emphasis on modern frontend technologies and scalable web solutions. I specialize in building responsive, high-performance user interfaces that align with business objectives and deliver measurable user impact.
 
+With hands-on experience across production-grade projects, I bridge the gap between design and engineering, ensuring clean architecture, maintainable codebases, and seamless user experiences.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nipunmitra36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nipun-mitra-598650227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nipunmitra.36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nipun_mitra/)  
+🚀 Core Competencies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunmitra36)](https://github.com/anuraghazra/github-readme-stats)
+Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
 
- [GitHub stats](https://github-readme-stats.vercel.app/api?username=nipunmitra36&show_icons=true)
+Frameworks & Libraries: React.js, Next.js
 
+CMS & Platforms: WordPress (Custom Themes & Optimization)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nipunmitra36)  
+Backend Exposure: PHP, Laravel (integration-focused)
 
-![GitHub metrics](https://metrics.lecoq.io/nipunmitra36)  
+UI/UX: Responsive Design, Accessibility, Performance Optimization
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nipunmitra36)  
+Tools & Workflow: Git, GitHub, REST APIs, Agile Collaboration
 
-![Profile views](https://gpvc.arturio.dev/nipunmitra36)  <div width="100"></div>
+🎯 Professional Focus
+
+Building business-ready frontend systems
+
+Translating UI/UX designs into scalable code
+
+Optimizing performance, SEO, and accessibility
+
+Continuous upskilling in modern web ecosystems
+
+📈 What I’m Working Toward
+
+Advanced frontend architecture (Next.js, component-driven design)
+
+Design systems & reusable UI libraries
+
+Full-stack readiness with API-first development
+
+Long-term impact through clean, sustainable code
