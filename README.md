@@ -1,8 +1,9 @@
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nipun%20Mitra&desc=Web%20and%20Sodtware%20Developer&fontAlignY=50&animation=fadeIn&reversal=false" 
-  alt="Header" 
-  width="100%" 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nipun%20Mitra&desc=Web%20and%20Software%20Developer&fontAlignY=40&animation=fadeIn&reversal=false&descAlignY=60&fontAlign=50"
+  alt="Nipun Mitra — Web and Software Developer"
+  width="100%"
 />
+
 
 **Tags:** `Nipun Mitra` `Web Developer` 
 
