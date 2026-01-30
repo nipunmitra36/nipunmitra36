@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nipun%20Mitra&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Web%20%26%20Software%20Developer&descAlign=50&descAlignY=70" alt="Header" width="100%" />
+  🚀 Transforming complex data into intelligent solutions.
+</div>
 
 
 
