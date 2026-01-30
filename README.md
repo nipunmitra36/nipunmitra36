@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nipun%20Mitra&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20Specialist%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=70" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nipun%20Mitra&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Web%20^%&%20%7C%20Software%20Developer%20%7C%20%20Stack%20&descAlign=50&descAlignY=70" alt="Header" width="100%" />
 </div>
 # 👋 Nipun Mitra  
 **Web Developer**
