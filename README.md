@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nipun%20Mitra&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=Web%20 %20%7C%20Backend%20Specialist%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=70" alt="Header" width="100%" />
-  🚀 Transforming complex data into intelligent solutions.
-</div>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nipun%20Mitra&desc=Web%20and%20Sodtware%20Developer&fontAlignY=50&animation=fadeIn&reversal=false" 
+  alt="Header" 
+  width="100%" 
+/>
+🚀 Transforming complex data into intelligent solutions.
 
 
 # 👋 Nipun Mitra  
