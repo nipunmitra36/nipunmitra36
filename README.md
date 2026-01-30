@@ -3,11 +3,6 @@
   alt="Header" 
   width="100%" 
 />
-🚀 Transforming complex data into intelligent solutions.
-
-
-# 👋 Nipun Mitra  
-**Web Developer**
 
 **Tags:** `Nipun Mitra` `Web Developer` 
 
